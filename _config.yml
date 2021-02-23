@@ -100,3 +100,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://melodic-cabbage-51683.netlify.app'
